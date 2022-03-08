@@ -64,7 +64,7 @@ For information send a DM to [Francesco](https://twitter.com/intent/follow?scree
 |56|VIGNESH K S|https://twitter.com/iamvvv0|
 |57|Aman Janwani|https://twitter.com/amanjanwani1486|
 |58|Shreyansh|https://twitter.com/shreyansh_ag|
-|59|Henok Ademtew|https://twitter.com/ademtew|
+|59|Henok Ademtew|https://twitter.com/ademtew|https://github.com/HenokB
 |60|Stentorian (She/They)|https://twitter.com/StentorianTV/status/1499797843384713223|
 |61|Srikar|https://twitter.com/Srikarmk|
 |62|Arman Chand|https://twitter.com/arman74895017|
